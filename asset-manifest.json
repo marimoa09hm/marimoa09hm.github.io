@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c72ad8c1.css",
+    "main.js": "/static/js/main.77e981af.js",
+    "static/js/787.f587e8d5.chunk.js": "/static/js/787.f587e8d5.chunk.js",
+    "static/media/Pretendard-Light.otf": "/static/media/Pretendard-Light.b751f0c99ed43c34e627.otf",
+    "static/media/Pretendard-Bold.otf": "/static/media/Pretendard-Bold.3ec32cdae5bc0c0026a6.otf",
+    "static/media/Hahmlet-Medium.ttf": "/static/media/Hahmlet-Medium.d1d8ced622bd6a4d5f60.ttf",
+    "static/media/마루재.png": "/static/media/마루재.f9068548e2d27db0c625.png",
+    "static/media/아름재.png": "/static/media/아름재.ac192691189f35b0217c.png",
+    "static/media/ArchivoNarrow-Regular.ttf": "/static/media/ArchivoNarrow-Regular.1962ac4cd63d5be46284.ttf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.c72ad8c1.css.map": "/static/css/main.c72ad8c1.css.map",
+    "main.77e981af.js.map": "/static/js/main.77e981af.js.map",
+    "787.f587e8d5.chunk.js.map": "/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c72ad8c1.css",
+    "static/js/main.77e981af.js"
+  ]
+}
